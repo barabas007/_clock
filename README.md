@@ -1,1 +1,1 @@
-# ЧАСЫ на Java Script
+# ЧАСЫ на JavaScript

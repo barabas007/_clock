@@ -1,4 +1,4 @@
 # ЧАСЫ на JavaScript
 
 
-![_clock](https://i.gifer.com/7kfx.mp4)
+![_clock](https://gifer.com/embed/7kfx)
